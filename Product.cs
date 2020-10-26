@@ -6,6 +6,10 @@
 
 namespace Full_GRASP_And_SOLID
 {
+    /// <summary>
+    /// Cumple con SRP ya  que no presenta más de una razon de cambio en este caso solo sería el cambiar producto.
+    /// Aplica Expert porque conoce lo suficiente y lo necesario del producto siendo responsable del mismo.
+    /// </summary>
     public class Product
     {
         #region Exceptions

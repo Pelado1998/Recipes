@@ -6,6 +6,10 @@
 
 namespace Full_GRASP_And_SOLID
 {
+    /// <summary>
+    /// Cumple con Expert ya que es el encargado de solamente conocer los pasos.
+    /// Cumple con SRP ya que solo presenta una razón de cambio.
+    /// </summary>
     public class Step
     {
         #region Exceptions

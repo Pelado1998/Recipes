@@ -6,6 +6,10 @@
 
 namespace Full_GRASP_And_SOLID
 {
+    /// <summary>
+    /// La clase Equipment cumple con SRP ya que tiene una única razón de cambio (costo).
+    /// Tambien con Expert ya que conoce muy bien la información que maneja y es la mejor responsable de esos datos.
+    /// </summary>
     public class Equipment
     {
         #region Exceptions

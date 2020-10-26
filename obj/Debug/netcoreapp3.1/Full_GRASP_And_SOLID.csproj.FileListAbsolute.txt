@@ -1,0 +1,13 @@
+C:\Prog2\Fullgrasp\Recipes\bin\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.exe
+C:\Prog2\Fullgrasp\Recipes\bin\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.deps.json
+C:\Prog2\Fullgrasp\Recipes\bin\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.runtimeconfig.json
+C:\Prog2\Fullgrasp\Recipes\bin\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.runtimeconfig.dev.json
+C:\Prog2\Fullgrasp\Recipes\bin\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.dll
+C:\Prog2\Fullgrasp\Recipes\bin\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.pdb
+C:\Prog2\Fullgrasp\Recipes\obj\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.csprojAssemblyReference.cache
+C:\Prog2\Fullgrasp\Recipes\obj\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.AssemblyInfoInputs.cache
+C:\Prog2\Fullgrasp\Recipes\obj\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.AssemblyInfo.cs
+C:\Prog2\Fullgrasp\Recipes\obj\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.csproj.CoreCompileInputs.cache
+C:\Prog2\Fullgrasp\Recipes\obj\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.dll
+C:\Prog2\Fullgrasp\Recipes\obj\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.pdb
+C:\Prog2\Fullgrasp\Recipes\obj\Debug\netcoreapp3.1\Full_GRASP_And_SOLID.genruntimeconfig.cache

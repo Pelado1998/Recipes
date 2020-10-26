@@ -1,33 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#Codigos\\ReposGitHub\\Recipes\\Full_GRASP_And_SOLID.csproj": {}
+    "C:\\Prog2\\Fullgrasp\\Recipes\\Full_GRASP_And_SOLID.csproj": {}
   },
   "projects": {
-    "C:\\C#Codigos\\ReposGitHub\\Recipes\\Full_GRASP_And_SOLID.csproj": {
+    "C:\\Prog2\\Fullgrasp\\Recipes\\Full_GRASP_And_SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#Codigos\\ReposGitHub\\Recipes\\Full_GRASP_And_SOLID.csproj",
+        "projectUniqueName": "C:\\Prog2\\Fullgrasp\\Recipes\\Full_GRASP_And_SOLID.csproj",
         "projectName": "Full_GRASP_And_SOLID",
-        "projectPath": "C:\\C#Codigos\\ReposGitHub\\Recipes\\Full_GRASP_And_SOLID.csproj",
-        "packagesPath": "C:\\Users\\pelad\\.nuget\\packages\\",
-        "outputPath": "C:\\C#Codigos\\ReposGitHub\\Recipes\\obj\\",
+        "projectPath": "C:\\Prog2\\Fullgrasp\\Recipes\\Full_GRASP_And_SOLID.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "C:\\Prog2\\Fullgrasp\\Recipes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pelad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
-          "D:\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -38,15 +34,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -57,6 +45,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }

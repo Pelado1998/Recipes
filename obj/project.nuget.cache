@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3UkT/GxotXWjHULAeQbUWA1xj/njSoZ6mXDF0gb2utyMJnhOHGEgAvxOoWNmwimYKPLWzv+NT2qFAwa0+lStgw==",
+  "dgSpecHash": "9rYTJmb4qBSbabQbfwF0DGuJBiaY9bwf77Rz7LQ64+hl0h3fl4u8DpN+7fbo+n3PU6ly4UXKSbItepDj5DZy7w==",
   "success": true,
-  "projectFilePath": "C:\\C#Codigos\\ReposGitHub\\Recipes\\Full_GRASP_And_SOLID.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pelad\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\pelad\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\pelad\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\pelad\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\pelad\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\pelad\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\pelad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Prog2\\Fullgrasp\\Recipes\\Full_GRASP_And_SOLID.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

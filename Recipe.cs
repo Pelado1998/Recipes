@@ -9,6 +9,11 @@ using System.Collections;
 
 namespace Full_GRASP_And_SOLID
 {
+    /// <summary>
+    /// Cumple con expert ya que es el experto en conocer la receta y sus pasos.
+    /// Cumple con SRP ya que es una sola la razon de cambio que vemos nosotros.
+    /// Cumple con Creator ya que crea recetas a partir de los pasos, con los cuales se relaciona.
+    /// </summary>
     public class Recipe
     {
         #region Exceptions

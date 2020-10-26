@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Full_GRASP_And_SOLID/1.0.0": {
+        "runtime": {
+          "Full_GRASP_And_SOLID.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Full_GRASP_And_SOLID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
